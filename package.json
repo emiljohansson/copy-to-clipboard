@@ -1,0 +1,15 @@
+{
+  "name": "copy-to-clipboard",
+  "version": "0.0.0",
+  "description": "Copies the passed parameter to the clipboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "copy",
+    "value"
+  ],
+  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "license": "MIT"
+}
